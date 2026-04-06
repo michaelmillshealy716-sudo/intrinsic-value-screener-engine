@@ -1,10 +1,4 @@
-# 🏛️ Intrinsic Value Screener Engine
-*Automated Fundamental Analysis & DCF Valuation*
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tC0sSr8UAkmDf6lWYyB_NJGuvjwAn7Qu)
-
-## Overview
-This engine automates the calculation of a stock's intrinsic value by analyzing historical financial data and projecting future cash flows. 
+[![Open In Colab](https://img.shields.io/badge/Open%20In%20Colab-Intrinsic%20Value%20Screener-orange?logo=googlecolab)](https://colab.research.google.com/github/michaelmillshealy/FASE/blob/main/intrinsic_value_screener.ipynb)
 
 ## ⚡ Kinetic-Alpha Momentum Engine
 *Technical Analysis & Price Velocity Tracking*
